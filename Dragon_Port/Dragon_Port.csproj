@@ -74,7 +74,16 @@
     <Content Include="apple-touch-icon.png" />
     <Content Include="assets\img\Headshot1.jpg" />
     <Content Include="assets\img\port pic.jpg" />
+    <Content Include="assets\img\portfolio\Api.jpeg" />
+    <Content Include="assets\img\portfolio\bugtracker.jpg" />
+    <Content Include="assets\img\portfolio\Finance.jpeg" />
+    <Content Include="assets\img\portfolio\Fizz Buzz Code.jpeg" />
+    <Content Include="assets\img\portfolio\Fizz Buzz.jpg" />
+    <Content Include="assets\img\portfolio\Loading filler.jpg" />
+    <Content Include="assets\img\portfolio\Palindrome.jpg" />
     <Content Include="assets\img\portfolio\port card.jpg" />
+    <Content Include="assets\img\portfolio\Sum of all Fears.png" />
+    <Content Include="assets\img\portfolio\Sunset Hills.jpeg" />
     <Content Include="assets\mail\contact_me.js" />
     <Content Include="Content\body.css" />
     <Content Include="Content\bootstrap-grid.css" />
