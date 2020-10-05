@@ -72,6 +72,7 @@
     <Content Include="android-chrome-192x192.png" />
     <Content Include="android-chrome-512x512.png" />
     <Content Include="apple-touch-icon.png" />
+    <Content Include="assets\img\Headshot1.jpg" />
     <Content Include="assets\img\port pic.jpg" />
     <Content Include="assets\img\portfolio\port card.jpg" />
     <Content Include="assets\mail\contact_me.js" />
