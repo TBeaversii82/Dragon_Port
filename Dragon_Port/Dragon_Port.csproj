@@ -79,11 +79,17 @@
     <Content Include="assets\img\portfolio\Finance.jpeg" />
     <Content Include="assets\img\portfolio\Fizz Buzz Code.jpeg" />
     <Content Include="assets\img\portfolio\Fizz Buzz.jpg" />
+    <Content Include="assets\img\portfolio\FizzBuzz.png" />
     <Content Include="assets\img\portfolio\Loading filler.jpg" />
+    <Content Include="assets\img\portfolio\mr-owl-on-branch-mr-owl-funko-pop.png" />
     <Content Include="assets\img\portfolio\Palindrome.jpg" />
+    <Content Include="assets\img\portfolio\PalinDrome.png" />
     <Content Include="assets\img\portfolio\port card.jpg" />
+    <Content Include="assets\img\portfolio\Sum of All Fears %282%29.png" />
     <Content Include="assets\img\portfolio\Sum of all Fears.png" />
     <Content Include="assets\img\portfolio\Sunset Hills.jpeg" />
+    <Content Include="assets\img\portfolio\SunSet Hills.png" />
+    <Content Include="assets\img\portfolio\sunset.jpeg" />
     <Content Include="assets\mail\contact_me.js" />
     <Content Include="Content\body.css" />
     <Content Include="Content\bootstrap-grid.css" />
